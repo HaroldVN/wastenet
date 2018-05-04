@@ -1,7 +1,10 @@
 # Stage 1
 ###### Mandatory
-- [x] Write HTML and CSS in the [Bootstrap 4](https://getbootstrap.com/) framework
-- [x] Install [Node.js](https://nodejs.org/) with [Express](http://expressjs.com/) and [Feathers.js](https://feathersjs.com)
+- [x] Write HTML in the [Bootstrap 4](https://getbootstrap.com/) framework
+- [ ] Write CSS in the [Bootstrap 4](https://getbootstrap.com/) framework
+- [x] Install [Node.js](https://nodejs.org/)
+- [ ] Install [Express](http://expressjs.com/)
+- [ ] Install [Feathers.js](https://feathersjs.com)
 - [ ] Complete layout for index.html
 
 ###### Suggested
@@ -35,7 +38,7 @@
 - [ ] Install [Let's Encrypt](https://letsencrypt.org)
 - [ ] Purchase domain with WHOIS protection and advanced security features
 - [ ] Install fail2ban
-- [ ] Establish BDD/TDD testing of compiled material 
+- [ ] Establish BDD/TDD testing of compiled material
 
 ###### Suggested
 - [ ] Configure [SRI Hashing](https://www.srihash.org/)
