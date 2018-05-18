@@ -1,14 +1,14 @@
 # Stage 1
 ###### Mandatory
 - [x] Write HTML in the [Bootstrap 4](https://getbootstrap.com/) framework
-- [ ] Write CSS in the [Bootstrap 4](https://getbootstrap.com/) framework
+- [x] Write CSS in the [Bootstrap 4](https://getbootstrap.com/) framework
 - [x] Install [Node.js](https://nodejs.org/)
-- [ ] Install [Express](http://expressjs.com/)
-- [ ] Install [Feathers.js](https://feathersjs.com)
-- [ ] Complete layout for index.html
+- [x] Install [Express](http://expressjs.com/)
+- [x] Install [Feathers.js](https://feathersjs.com)
+- [x] Complete layout for index.html
 
 ###### Suggested
-- [ ] Configure [.editorconfig](http://editorconfig.org/)
+- [x] Configure [.editorconfig](http://editorconfig.org/)
 
 ###### Optional
 - [ ] [Use System UI Fonts](https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/) in CSS
@@ -43,7 +43,7 @@
 ###### Suggested
 - [ ] Configure [SRI Hashing](https://www.srihash.org/)
 - [ ] Configure HTTPS
-- [ ] [Configure Uptime Robot](https://uptimerobot.com/)
+- [ ] Configure [Uptime Robot](https://uptimerobot.com/)
 - [ ] Establish a11y testing
 
 ###### Optional
